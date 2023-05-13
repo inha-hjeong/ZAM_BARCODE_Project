@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_bottom_sheet_top_drag_handle
+drawable ic_close_black
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string camera_permission_is_denied
+string loading_product_result_error_generic
+string loading_the_result
+string move_closer_to_the_barcode
+string move_your_camera_to_place_the_barcode_in_the_frame
+string point_your_camera_at_a_barcode
+style Theme.ComposeBarcodeScanner
+xml backup_rules
+xml data_extraction_rules
